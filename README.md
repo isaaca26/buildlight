@@ -1,2 +1,2 @@
-# buildlight
+# Buildlight
 Buildlight for CI/CD builds
